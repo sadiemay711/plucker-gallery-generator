@@ -1,3 +1,7 @@
+# Seems like a good start for my idea of a low-res Palm PDA image gallery thing for Plucker, a tool for viewing webpages offline. 
+
+
+
 ## Photography Gallery Generator
 This is a simple [BaT](https://github.com/richbl/a-bash-template) bash script that:
 
